@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# PeasyQR Embed Widget
+# Main site: https://peasyqr.com
+# Widget docs: https://widget.peasyqr.com
+# npm: https://www.npmjs.com/package/peasy-qr-embed
